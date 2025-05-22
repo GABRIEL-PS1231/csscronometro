@@ -1,0 +1,53 @@
+
+    body {
+        background-color: #f0f0f0;
+        color: #333;
+        font-family: 'Roboto Slab', serif;
+        text-align: center;
+        padding: 20px;
+    }
+
+    #relogio {
+        font-family: 'Cherry Bomb One', cursive;
+        font-size: 3em;
+        background-color: #ffffff;
+        color: #0077b6;
+        padding: 15px 30px;
+        border-radius: 10px;
+        border: 2px solid #0077b6;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    #cronometro {
+        font-family: 'Original Surfer', cursive;
+        font-size: 3em;
+        background-color: #ffffff;
+        color: #009688;
+        padding: 15px 30px;
+        border-radius: 10px;
+        border: 2px solid #009688;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    button {
+        padding: 8px 16px;
+        margin: 5px;
+        border: 2px solid #555;
+        border-radius: 8px;
+        background-color: #ddd;
+        color: #333;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #ccc;
+    }
+
+    hr {
+        margin: 30px auto;
+        width: 60%;
+        border: 1px solid #ccc;
+    }
+
